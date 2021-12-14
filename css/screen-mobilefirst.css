@@ -160,7 +160,7 @@ header p {
 #
 */
 
-@font-face{font-family:'FranchiseRegular';src:url('/fonts/Franchise/franchise-bold-webfont.eot');src:local('☺'), url('/fonts/Franchise/franchise-bold-webfont.woff') format('woff'), url('/fonts/Franchise/franchise-bold-webfont.ttf') format('truetype'), url('/fonts/Franchise/franchise-bold-webfont.svg#webfontpJ3jCjex') format('svg');font-weight:normal;font-style:normal}
+@font-face{font-family:'FranchiseRegular';src:url('../fonts/Franchise/franchise-bold-webfont.eot');src:local('☺'), url('../fonts/Franchise/franchise-bold-webfont.woff') format('woff'), url('../fonts/Franchise/franchise-bold-webfont.ttf') format('truetype'), url('../fonts/Franchise/franchise-bold-webfont.svg#webfontpJ3jCjex') format('svg');font-weight:normal;font-style:normal}
 
 
 body {
